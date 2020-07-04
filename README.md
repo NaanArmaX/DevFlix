@@ -2,7 +2,6 @@
 
 # DevFlix
 
-> Aplicação para você dev, poder assistir vídeos sobre programação.
 
 
 Aplicativo mobile que consome a Api do Youtube e lista conteúdos para desenvolvedores de software e apaixonados por programação.
